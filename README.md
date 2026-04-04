@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Product Engineer</strong> at <a href="https://raazmd.com">Raaz</a> &nbsp;&bull;&nbsp; BITS Pilani, Goa — CSE '23
   <br/>
-  Building the full tech stack for a healthcare platform serving <strong>55,000+ users</strong>
+  I build and run the entire tech stack for a healthcare platform with 55,000+ users.
 </p>
 
 <p align="center">
@@ -14,38 +14,36 @@
 
 ---
 
-### Currently @ Raaz
+### What I do at Raaz
 
-Solo-engineering a health-tech platform end-to-end — mobile app to microservices to call center infra.
+I own the product end-to-end — from the mobile app to the backend services to the call center infrastructure.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **Mobile & Web**
-- React Native (Expo) app + React web platform
-- AI clinical assessments — branching logic, severity scoring
-- Personalized PDF reports (diet charts, recovery plans) via Claude & Groq
+- React Native (Expo) app and React web platform
+- AI-driven clinical assessments with branching logic and severity scoring
+- PDF report generation — personalized diet charts and recovery plans powered by Claude and Groq
 
-**Backend & Infra**
-- Express/TypeScript API, 30+ repositories on Supabase
-- 10+ AWS Lambda microservices
-- Order pipeline — Razorpay + Shopify + Prozo WMS + Proship
-- Idempotent webhook handlers, Redis-backed queues
+**Backend & Infrastructure**
+- Express/TypeScript API on Supabase (PostgreSQL), 30+ data models
+- 10+ AWS Lambda microservices handling webhooks, scheduling, and async jobs
+- Unified order pipeline across Razorpay, Shopify, Prozo WMS, and Proship with idempotent handlers and Redis-backed queues
 
 </td>
 <td width="50%" valign="top">
 
 **Call Center & CRM**
-- Real-time agent dashboard — Socket.io + DynamoDB
-- 200K+ monthly calls tracked
-- Tata Tele + Zoho CRM — auto lead rescheduling, IVR routing
-- Knowlarity streaming for live call monitoring
+- Real-time agent dashboard built on Socket.io and DynamoDB, tracking 200K+ calls per month
+- Integrated Tata Tele SmartFlo with Zoho CRM for automated appointment scheduling, lead routing, and IVR flows
+- Live call monitoring via Knowlarity's streaming API
 
 **Growth & Retention**
-- Push notifications with behavioral nudges + cohort targeting
-- AI retargeting engine — 5 user segments, personalized sequences
-- Partner dashboard with live conversion metrics
+- Notification system with scheduled nudges and cohort-based targeting via Firebase and Amplitude
+- AI-powered retargeting across 5 user segments with timed re-engagement campaigns
+- Partner-facing dashboard pulling live conversion data from Zoho CRM
 
 </td>
 </tr>
@@ -53,7 +51,7 @@ Solo-engineering a health-tech platform end-to-end — mobile app to microservic
 
 ---
 
-### Previous
+### Before Raaz
 
 <table>
 <tr>
@@ -61,14 +59,14 @@ Solo-engineering a health-tech platform end-to-end — mobile app to microservic
 
 **GJ-Map Solutions**
 <br/>
-C++ inference compiled to WebAssembly + ONNX Runtime + Meta's SAM for browser-based object detection on GIS imagery. 6 production React apps for government teams on ArcGIS SDK.
+Built browser-based object detection for GIS imagery — compiled C++ inference kernels to WebAssembly and integrated ONNX Runtime with Meta's Segment Anything Model. Delivered 6 production React applications for government and enterprise GIS teams using ArcGIS SDK.
 
 </td>
 <td width="50%" valign="top">
 
 **SuperPe**
 <br/>
-Real-time fraud detection dashboard. React Native onboarding + payment checkout serving 50K+ daily transactions.
+Built a real-time fraud detection dashboard that flagged anomalous transactions before settlement. Developed the onboarding and payment checkout flows in the React Native app, serving 50K+ daily transactions.
 
 </td>
 </tr>
@@ -113,5 +111,5 @@ Real-time fraud detection dashboard. React Native onboarding + payment checkout 
 ---
 
 <p align="center">
-  <strong>Outside code:</strong> National gold medalist in Ultimate Frisbee — NOCUS 2025 & NCUC 2023 🥇
+  National gold medalist in Ultimate Frisbee — NOCUS 2025 & NCUC 2023
 </p>
