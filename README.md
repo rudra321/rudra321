@@ -16,7 +16,7 @@
 
 ### What I do at Raaz
 
-I own the product end-to-end — from the mobile app to the backend services to the call center infrastructure.
+I own the product end-to-end — from the mobile app to the backend services to the telephony system.
 
 <table>
 <tr>
@@ -35,7 +35,7 @@ I own the product end-to-end — from the mobile app to the backend services to 
 </td>
 <td width="50%" valign="top">
 
-**Call Center & CRM**
+**Telephony & CRM**
 - Real-time agent dashboard built on Socket.io and DynamoDB, tracking 200K+ calls per month
 - Integrated Tata Tele SmartFlo with Zoho CRM for automated appointment scheduling, lead routing, and IVR flows
 - Live call monitoring via Knowlarity's streaming API
