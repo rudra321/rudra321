@@ -9,7 +9,7 @@ I also write software.
 
 I'm Rudra. Product Engineer at [Raaz](https://raazmd.com), where I build and run the entire tech stack for a healthcare platform with 55,000+ users. One engineer, everything from the React Native app to the telephony system.
 
-BITS Pilani, Goa — CSE '23.
+BITS Pilani, Goa, Bachelors in Computer Science, 2023.
 
 ---
 
